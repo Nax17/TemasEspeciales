@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tarea 1</string>
+    <string name="edit_name">Digite un nombre...</string>
+    <string name="edit_lastname">Digite un apellido...</string>
+    <string name="select_gender">Género</string>
+    <string name="gender">Género:</string>
+    <string name="select_birth">Nacimiento:</string>
+    <string name="view_program">¿Le gusta programar?</string>
+    <string name="view_languages">Lenguajes:</string>
+    <string name="box_java" />
+    <string name="checkbox_java">Java</string>
+    <string name="checkbox_JS">JS</string>
+    <string name="checkbox_C">C/C++</string>
+    <string name="checkbox_python">Python</string>
+    <string name="checkbox_go">Go Land</string>
+    <string name="checkbox_csharp">C#</string>
+    <string name="radio_si">Sí</string>
+    <string name="radio_no">No</string>
+    <string name="button_send">Enviar</string>
+    <string name="button_clean">Limpiar</string>
+    <string name="text_saludos">"¡Hola!, mi nombre es: "</string>
+    <string-array name="generos">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
